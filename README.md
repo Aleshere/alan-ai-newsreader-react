@@ -1,3 +1,40 @@
+
+# Alan AI news reading APP built with React
+*The app is linked with [Alan AI bot](https://alan.app/).*  
+*At the landing page, all you have to do is ask him to read you the news (by surce, term, category, or just the latest).*  
+*He will present you with 20 articles. He can read each title and even open it on a new tab for you.*  
+
+# What I have learned building this  
+
+> alan ai interaction via react app   
+> material ui Grid, Grow and Typography   
+> useStyles / styles.js   
+> 'classNames' utility to apply conditional classes in React   
+> 'wordsToNumbers' utility to parse unclear spoken words into numbers  
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## About
+
+* I enjoyed being able to understand a little about interactions with a different platform.  
+* I learned to know how the bot navigates through the pages and also how it can scroll to command.  
+* Overall it was a great experience and thank a lot to Javascript Mastery for providing the material!.  
+* Project status: working  
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And here's the usual stuff 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
