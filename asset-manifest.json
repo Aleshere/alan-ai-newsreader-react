@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alan-ai-newsreader-react/static/css/main.e23e6b48.chunk.css",
+    "main.js": "/alan-ai-newsreader-react/static/js/main.51b69138.chunk.js",
+    "main.js.map": "/alan-ai-newsreader-react/static/js/main.51b69138.chunk.js.map",
+    "runtime-main.js": "/alan-ai-newsreader-react/static/js/runtime-main.ba60fffb.js",
+    "runtime-main.js.map": "/alan-ai-newsreader-react/static/js/runtime-main.ba60fffb.js.map",
+    "static/js/2.775fa560.chunk.js": "/alan-ai-newsreader-react/static/js/2.775fa560.chunk.js",
+    "static/js/2.775fa560.chunk.js.map": "/alan-ai-newsreader-react/static/js/2.775fa560.chunk.js.map",
+    "index.html": "/alan-ai-newsreader-react/index.html",
+    "precache-manifest.541e8dd99823113a347fcbacbb06dfb9.js": "/alan-ai-newsreader-react/precache-manifest.541e8dd99823113a347fcbacbb06dfb9.js",
+    "service-worker.js": "/alan-ai-newsreader-react/service-worker.js",
+    "static/css/main.e23e6b48.chunk.css.map": "/alan-ai-newsreader-react/static/css/main.e23e6b48.chunk.css.map",
+    "static/js/2.775fa560.chunk.js.LICENSE.txt": "/alan-ai-newsreader-react/static/js/2.775fa560.chunk.js.LICENSE.txt",
+    "static/media/alan-logo.jpg": "/alan-ai-newsreader-react/static/media/alan-logo.d3e2c60f.jpg",
+    "static/media/news-placeholder-738.png": "/alan-ai-newsreader-react/static/media/news-placeholder-738.33047336.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba60fffb.js",
+    "static/js/2.775fa560.chunk.js",
+    "static/css/main.e23e6b48.chunk.css",
+    "static/js/main.51b69138.chunk.js"
+  ]
+}
